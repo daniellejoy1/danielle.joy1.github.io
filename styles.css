@@ -1,0 +1,27 @@
+#navBar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+body {
+    font-family: cursive;
+    text-align: center;
+
+}
+  .hello {
+      text-align: center;
+      background-image: url("devices1.jpg");
+      background-color: tan;
+  }
+/* .webDeveloper {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+} */
+
+#fs-frm {
+    display:block;
+
+}
