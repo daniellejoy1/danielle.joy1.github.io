@@ -1,5 +1,6 @@
-#navBar {
-    position: fixed;
+.navBar {
+    position: relative;
+    background-color: darkgray; 
     top: 0;
     width: 100%;
 
@@ -9,12 +10,12 @@ body {
     text-align: center;
 
 }
-  .hello {
+  /* .hello {
       text-align: center;
       background-image: url("devices1.jpg"); 
       background-size: 100%;
       background-color: tan;
-  }
+  } */
 /* .webDeveloper {
     position: relative;
     width: 100%;
