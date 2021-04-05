@@ -10,6 +10,21 @@ body {
     text-align: center;
 
 }
+.carousel, h1{
+font-weight: bolder;
+text-shadow: black;
+}
+
+#aboutMe {
+    display: block;
+    padding: 100px;
+}
+
+#myFace {
+    float: left;
+    border: 1px;
+    border-radius: 50%;
+}
   /* .hello {
       text-align: center;
       background-image: url("devices1.jpg"); 
@@ -22,7 +37,9 @@ body {
     margin: auto;
     padding: auto;
 } */
-
+.exampleWork{
+    padding: 100px;
+}
 #fs-frm {
     display:block;
 
